@@ -20,10 +20,6 @@ abbr.name{
 	display: none;
 }
 
-[epub|type~="z3998:verse"] p + p{
-	margin-top: 1em;
-}
-
 [epub|type~="z3998:verse"] + p{
 	text-indent: 0;
 }
@@ -31,4 +27,17 @@ abbr.name{
 p span.i1{
 	text-indent: -1em;
 	padding-left: 2em;
+}
+
+span[epub|type~="subtitle"]{
+	display: block;
+	font-weight: normal;
+}
+
+footer{
+	text-align: right;
+}
+
+.signature{
+	font-variant: small-caps;
 }
