@@ -2,9 +2,9 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/charles-dickens/hard-times</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
-		<meta property="se:revision-number">0</meta>
+		<dc:date>2018-10-02T00:05:33Z</dc:date>
+		<meta property="dcterms:modified">2018-10-02T00:05:33Z</meta>
+		<meta property="se:revision-number">1</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -52,7 +52,7 @@
 		<dc:description id="description">A wealthy man in the industrial north of England raises his children on purely rational principles, with unfortunate results.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Hard Times&lt;/i&gt; (originally &lt;i&gt;Hard Times—For These Times&lt;/i&gt;) was published in 1854. It is the shortest novel Charles Dickens ever published. It is set in Coketown, a fictional mill-town set in the north of England. One of the major themes of the book is the miserable treatment of workers in the mills, and the resistance to their unionization by the mill owners, typified by the character Josiah Bounderby, who absurdly asserts that the workers live a near-idyllic life but they all “expect to be set up in a coach and six, and to be fed on turtle soup and venison, with a gold spoon.” The truth, of course, is far different.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Hard Times&lt;/i&gt; (originally &lt;i&gt;Hard Times—For These Times&lt;/i&gt;) was published in 1854, and is the shortest novel Charles Dickens ever published. It’s set in Coketown, a fictional mill-town set in the north of England. One of the major themes of the book is the miserable treatment of workers in the mills, and the resistance to their unionization by the mill owners, typified by the character Josiah Bounderby, who absurdly asserts that the workers live a near-idyllic life but they all “expect to be set up in a coach and six, and to be fed on turtle soup and venison, with a gold spoon.” The truth, of course, is far different.&lt;/p&gt;
 			&lt;p&gt;The other major topic which Dickens tackles in this novel is the rationalist movement in schooling and the denigration of imagination and fantasy. It begins with the words “Now, what I want is, Facts,” spoken by the wealthy magnate Thomas Gradgrind, who is supervising a class at a model school he has opened. This indeed is Gradgrind’s entire philosophy. “Teach these boys and girls nothing but Facts. Facts alone are wanted in life. Plant nothing else, and root out everything else.” He is supported and encouraged in this approach by his friend Bounderby. Grandgrind raises his own children on these principles, and, as we discover, in doing so blights their lives.&lt;/p&gt;
 			&lt;p&gt;The novel also follows the story of a particular mill-worker, Stephen Blackpool, who leads a tragic life. He is burdened with an alcoholic, slatternly wife, who is mostly absent from his life, but who returns at irregular intervals to trouble him. This existing marriage, and the near-impossibility of divorce for someone of his class, prevents him marrying Rachel, who is the light of his life. Dickens depicts Stephen as representing the nobility of honest work, and contrasts his character with that of the self-satisfied humbug Josiah Bounderby who represents the worst aspects of capitalism.&lt;/p&gt;
 		</meta>
@@ -60,8 +60,8 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/786</dc:source>
 		<dc:source>https://archive.org/details/hardtimes1854dick</dc:source>
-		<meta property="se:word-count">WORDCOUNT</meta>
-		<meta property="se:reading-ease.flesch">READINGEASE</meta>
+		<meta property="se:word-count">104911</meta>
+		<meta property="se:reading-ease.flesch">71.44</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Hard_Times</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/charles-dickens_hard-times</meta>
 		<dc:creator id="author">Charles Dickens</dc:creator>
@@ -70,10 +70,10 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Charles_Dickens</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78087607</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVERARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVERARTISTWIKILINK</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVERARTISTNACOAFLINK</meta>
+		<dc:contributor id="artist">Constantin Meunier</dc:contributor>
+		<meta property="file-as" refines="#artist">Meunier, Constantin</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Constantin_Meunier</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n82093930</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">David Price</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Price, David</meta>
@@ -87,6 +87,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
