@@ -34,7 +34,8 @@
 		<dc:title id="subtitle">For These Times</dc:title>
 		<meta property="file-as" refines="#subtitle">For These Times</meta>
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
-		<dc:title id="fulltitle">Hard Times—For These Times</dc:title>
+		<dc:title id="fulltitle">Hard Times: For These Times</dc:title>
+		<meta property="file-as" refines="#fulltitle">Hard Times</meta>
 		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">England -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Domestic fiction</dc:subject>
